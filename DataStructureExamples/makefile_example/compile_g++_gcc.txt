@@ -1,0 +1,12 @@
+gcc compile
+For .c file
+compile: gcc <sourceFile> -o <excutableName>
+run: ./<excutableName>
+
+
+g++ compile
+For .cpp file
+install: sudo apt-get install g++
+compile: g++ -o <executable_name> <source_file>
+run: ./<executable_name>
+
